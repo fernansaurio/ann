@@ -30,3 +30,4 @@ plt.ylabel(r"$f(x)$ (Imagen)", fontsize=12)
 plt.grid(True, linestyle='--', alpha=0.7)
 plt.legend()
 plt.show()
+#plt.savefig('grafica_ejercicio5a.png') # Guardar la gráfica como imagen
