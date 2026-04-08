@@ -9,4 +9,5 @@ y = -0.5 * x**2 + 2.5 * x + 4.5
 plt.plot(x, y)
 plt.axhline(0, color='red') # Línea en y=0
 plt.title("Método Gráfico: f(x) = -0.5x^2 + 2.5x + 4.5")
-plt.show()
+#plt.show()
+plt.savefig("grafico_asignacion2.png")
