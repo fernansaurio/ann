@@ -1,3 +1,18 @@
+"""
+UNIVERSIDAD DE EL SALVADOR 
+FACULTAD DE INGENIERIA Y ARQUITECTURA
+
+Analisis Numérico
+Laboratorio 3 - Asignacion 1
+
+Alumnos:
+Oscar Manuel Velasquez Villanueva vv24002
+Diego Josué Mendoza Prudencio MP24048
+Marcelo Xavier Molina Gómez MG24048
+Fernando José Padilla Cruz PC24039
+Mauricio Antonio Muñoz Contreras MC24021 
+"""
+
 import math
 
 def calcular_raices():

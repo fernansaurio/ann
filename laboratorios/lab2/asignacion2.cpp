@@ -1,3 +1,18 @@
+/*
+UNIVERSIDAD DE EL SALVADOR 
+FACULTAD DE INGENIERIA Y ARQUITECTURA
+
+Analisis Numérico
+Laboratorio 2 - Asignacion 2
+
+Alumnos:
+Oscar Manuel Velasquez Villanueva vv24002
+Diego Josué Mendoza Prudencio MP24048
+Marcelo Xavier Molina Gómez MG24048
+Fernando José Padilla Cruz PC24039
+Mauricio Antonio Muñoz Contreras MC24021 
+*/
+
 // 2. Puente: valor verdadero de 20m y valor medido de 19.6m
 
 

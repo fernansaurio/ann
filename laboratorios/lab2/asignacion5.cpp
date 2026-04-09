@@ -1,4 +1,19 @@
 /*
+UNIVERSIDAD DE EL SALVADOR 
+FACULTAD DE INGENIERIA Y ARQUITECTURA
+
+Analisis Numérico
+Laboratorio 2 - Asignacion 5
+
+Alumnos:
+Oscar Manuel Velasquez Villanueva vv24002
+Diego Josué Mendoza Prudencio MP24048
+Marcelo Xavier Molina Gómez MG24048
+Fernando José Padilla Cruz PC24039
+Mauricio Antonio Muñoz Contreras MC24021 
+*/
+
+/*
 Desarrolle la serie de Maclaurin en C y resuelva para 𝑒
 0.5
 con 6 términos de la serie.
